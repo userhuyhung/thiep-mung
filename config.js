@@ -1,6 +1,6 @@
 const nameGirl = 'Hiểu';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Hello hiểu';
+const eventName = 'Hello Tùng';
 const titleCard = 'hiểu';
 const contentCard = 'Chúc anh hiểu sớm ngày mọc tóc';
 
